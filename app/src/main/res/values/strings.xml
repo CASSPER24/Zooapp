@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zooapp</string>
+    <string name="animal">Baboon</string>
+    <string name="animal_text">This is a baboon, its a crazy animal</string>
+</resources>
